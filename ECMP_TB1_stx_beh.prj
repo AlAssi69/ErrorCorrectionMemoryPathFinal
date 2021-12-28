@@ -1,0 +1,8 @@
+vhdl isim_temp "Register16.vhd"
+vhdl isim_temp "NoiseElement.vhd"
+vhdl isim_temp "HammingEncoder.vhd"
+vhdl isim_temp "HammingDecoder.vhd"
+vhdl isim_temp "DPRAM.vhd"
+vhdl isim_temp "Buffer16.vhd"
+vhdl isim_temp "ECMP.vhd"
+vhdl isim_temp "ECMP_TB1.vhd"

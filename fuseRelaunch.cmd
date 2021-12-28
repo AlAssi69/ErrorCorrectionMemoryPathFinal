@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/ProgrammingProjects/Xilinx/ErrorCorrectionMemoryPathFinal/ECMP_TB1_isim_beh.exe" -prj "C:/ProgrammingProjects/Xilinx/ErrorCorrectionMemoryPathFinal/ECMP_TB1_beh.prj" "work.ECMP_TB1" 

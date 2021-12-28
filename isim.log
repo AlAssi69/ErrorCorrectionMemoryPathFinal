@@ -1,0 +1,89 @@
+ISim log file
+Running: C:\ProgrammingProjects\Xilinx\ErrorCorrectionMemoryPathFinal\ECMP_TB1_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/ProgrammingProjects/Xilinx/ErrorCorrectionMemoryPathFinal/ECMP_TB1_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+at 50 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 50 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 50 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 50 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 50 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 150 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 150 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 150 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 150 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 250 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 250 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 250 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 250 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 350 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 350 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 350 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 350 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 450 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 450 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 450 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 450 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 550 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 550 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 550 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 550 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 650 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 650 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 650 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 650 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 750 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 750 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 750 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 750 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 850 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 850 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 950 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 950 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 950 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 950 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+at 50 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 50 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 50 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 50 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 50 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 150 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 150 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 150 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 150 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 250 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 250 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 250 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 250 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 350 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 350 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 350 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 350 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 450 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 450 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 450 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 450 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 550 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 550 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 550 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 550 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 650 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 650 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 750 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 750 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 850 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 850 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 950 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 950 ns(1), Instance /ecmp_tb1/uut/decoder1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 950 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 950 ns(1), Instance /ecmp_tb1/uut/decoder2/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.

@@ -1,0 +1,8 @@
+vhdl work "Register16.vhd"
+vhdl work "NoiseElement.vhd"
+vhdl work "HammingEncoder.vhd"
+vhdl work "HammingDecoder.vhd"
+vhdl work "DPRAM.vhd"
+vhdl work "Buffer16.vhd"
+vhdl work "ECMP.vhd"
+vhdl work "ECMP_TB1.vhd"

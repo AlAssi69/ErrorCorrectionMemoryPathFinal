@@ -1,0 +1,7 @@
+work	"Buffer16.vhd"
+work	"DPRAM.vhd"
+work	"ECMP.vhd"
+work	"HammingDecoder.vhd"
+work	"HammingEncoder.vhd"
+work	"NoiseElement.vhd"
+work	"Register16.vhd"
